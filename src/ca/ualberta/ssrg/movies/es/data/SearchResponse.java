@@ -42,7 +42,6 @@ public class SearchResponse<T> {
 		this.hits = hits;
 	}	   
 }
-
 	
 
 class Shard {
